@@ -17,13 +17,18 @@ Este desarrollo nace de la necesidad operativa de tener un control estricto sobr
 * **UX Logística:** Flujos de trabajo optimizados para rapidez. Bandejas de auto-refresco y menús modales que mantienen al operario enfocado en la tarea de despacho.
 
 ## 💻 Interfaz del Sistema
-
-*(Nota: Aquí puedes arrastrar y soltar capturas de pantalla de tu menú, login y bandeja)*
 > **1. Menú Principal y Login**
-> [Espacio para Imagen]
-> 
+<img width="370" height="399" alt="image" src="https://github.com/user-attachments/assets/3bc178ea-d14f-4a21-9209-ae6518a05171" />
+
+<img width="583" height="430" alt="image" src="https://github.com/user-attachments/assets/1772c05e-d95c-451b-a902-8a14e02f8226" />
+
+
 > **2. Bandeja de Despachos y Detalles**
-> [Espacio para Imagen]
+<img width="1010" height="892" alt="image" src="https://github.com/user-attachments/assets/6fcc7d34-6b79-4e7a-829d-fc5f772acb4d" />
+
+<img width="1115" height="715" alt="image" src="https://github.com/user-attachments/assets/b525ef7c-1185-4934-9949-a9897b8b3ac8" />
+
+
 
 ## 🛣️ Roadmap (Próximas Mejoras)
 El sistema está en mejora continua. Las siguientes integraciones están en fase de desarrollo:
