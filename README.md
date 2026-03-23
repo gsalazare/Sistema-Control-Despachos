@@ -1,4 +1,4 @@
-# 📦 Sistema de Control de Despachos (WMS-Lite)
+# 📦 Sistema de Control de Despachos
 
 ![Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-000080?style=for-the-badge&logo=visual-basic&logoColor=white)
